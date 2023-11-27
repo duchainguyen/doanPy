@@ -1,4 +1,5 @@
 #Các bước triển khai
+
 •	Thu thập dữ liệu: Gom dữ liệu của các bệnh viện, cơ sở y tế hoặc các nguồn khác liên
 quan đến thông tin người bệnh như Kaggle.
 
